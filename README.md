@@ -61,6 +61,4 @@ https://doi.org/10.5281/zenodo.19504247
 
 ## Citation
 
-**DOI:** https://doi.org/[DOI]
-
-The complete PDF is available through the DOI link.
+**DOI:** https://doi.org/10.5281/zenodo.20836174
